@@ -1,0 +1,33 @@
+body{
+  background-image: url(../img/fondo.jpg);
+  background-size: 2648px 1935px;
+}
+img.logo{
+  width: 120px;
+}
+h3{
+  margin-top: 20px;
+}
+div.row-container{
+  background-color: blu
+}
+img.redes{
+  width: 30px;
+  vertical-align:center;
+}
+p.datos{
+  text-align: justify;}
+  p.perfil{
+    text-align: center;}
+
+div.row-contenido{
+  background-color: rgba(255,255,255,0.7);
+}
+
+#contenedor_vertical{
+
+  margin-top: 200px;
+}
+#vertical{
+  margin-top: 50px;
+}
